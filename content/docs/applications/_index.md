@@ -12,6 +12,6 @@ date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-{{< cta cta_text="  Burial Dating" cta_link="burial-dating" icon_pack="fas" icon="layer-group">}} where does this text end up?
+{{< cta cta_text="  Burial Dating" cta_link="burial-dating" icon_pack="fas" icon="layer-group">}}
 {{< cta cta_text=" Erosion Rates" cta_link="erosion-rates" icon_pack="fas" icon="layer-group">}}
 {{< cta cta_text="Exposure Dating" cta_link="exposure-dating" icon_pack="fas" icon="layer-group">}}
