@@ -12,10 +12,10 @@ weight: 3
    - _maximum ~50g quartz in 90ml jar and maximum ~150g in 240ml jar_
    - _if using the quick dissolution, only use the largest Savillex jars_
 
-Add 7M HF (48% conc. HF (28M): Millipore H2O=1:3) till the sample is covered by ~5mm excess liquid
-Heat ~1 hour (maximum) @ 120°C with lid 
-Allow to cool and wash with Millipore H2O
-	Note: 4x rinses per sample
+- Add 7M HF (48% conc. HF (28M): Millipore H2O=1:3) till the sample is covered by ~5mm excess liquid
+- Heat ~1 hour (maximum) @ 120°C with lid 
+- Allow to cool and wash with Millipore H2O
+	 - Note: 4x rinses per sample
 
 Add Aqua Regia (conc. (14M) HNO3: conc. (12M) HCl =1:3) till the sample is covered by ~5mm excess liquid
 	Note: to make batch for ~13 samples (~500ml  of Aqua Regia), add 450ml HCl and 150ml HNO3
