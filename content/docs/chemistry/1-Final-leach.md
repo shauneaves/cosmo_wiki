@@ -1,10 +1,10 @@
 ---
-title: 1 Final leach
-linktitle: 1 Final leach
+title: Final leach
+linktitle: Final leach
 type: book
 date: "2019-05-05T00:00:00+01:00"
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 3
+weight: 1
 ---
 ## Theory
 _This step is the last chance for cleaning the samples._
