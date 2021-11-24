@@ -9,8 +9,8 @@ weight: 3
 ## Theory
 _This step is the last chance for cleaning the samples._
 
-
-- Sketch the following table
+## Steps
+1.1 Sketch the following table
 
 |   |SampleID|Empty beaker+lid (g)|Beaker+lid+qtz (g)|Carrier weight (g)|
 |---|--------|--------------------|------------------|------------------|
@@ -20,7 +20,7 @@ _This step is the last chance for cleaning the samples._
 |.. |        |                    |                  |                  |
 |_n_|_blank_ |                    |                  |         -        |
 
-- Label and precisely weigh 90ml or 240ml Savillex screwtop jar and lid (1 per sample)
+1.2 Label and precisely weigh 90ml or 240ml Savillex screwtop jar and lid (1 per sample)
 - Add sample 
    - _maximum ~50g quartz in 90ml jar and maximum ~150g in 240ml jar_
    - _if using the quick dissolution, only use the largest Savillex jars_
