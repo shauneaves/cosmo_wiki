@@ -7,7 +7,6 @@ date: "2019-05-05T00:00:00+01:00"
 weight: 3
 ---
 
-## 1 Final leach
 - Take the precise weight of a 90ml or 240ml Savillex screwtop jar and lid 
    - _maximum ~50g quartz in 90ml jar and maximum ~150g in 240ml jar_
    - _if using the quick dissolution, only use the largest Savillex jars_
