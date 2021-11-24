@@ -10,7 +10,7 @@ weight: 3
 _This step is the last chance for cleaning the samples._
 
 ## Steps
-1.1 Sketch the following table
+1.1 Sketch the following table in your lab book:
 
 |   |SampleID|Empty beaker+lid (g)|Beaker+lid+qtz (g)|Carrier weight (g)|
 |---|--------|--------------------|------------------|------------------|
