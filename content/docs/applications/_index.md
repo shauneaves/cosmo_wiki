@@ -11,3 +11,5 @@ title: Applications
 date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
+
+{{< cta cta_text="Burial Dating" cta_link="burial-dating" icon_pack="fas" icon="layer-group">}}
