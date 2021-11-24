@@ -3,7 +3,7 @@
 linktitle: Sample Collection
 summary: Learn how to collect samples for cosmogenic nuclide applications.
 weight: 1
-icon: book
+icon: people-carry
 icon_pack: fas
 
 # Page metadata.
