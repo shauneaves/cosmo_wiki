@@ -17,11 +17,7 @@ cta:
 cta_alt:
   url: docs/
   label: View Methodology
-cta_note:
-  label: >-
-    <span class="js-github-release" data-repo="wowchemy/wowchemy-hugo-modules">
-      v.:<!-- Automatically filled based on data-repo value -->
-    </span>
+
 ---
 
 
