@@ -8,13 +8,13 @@ weight: 3
 ---
 - Sketch the following table
 
-|  |SampleID|Empty beaker+lid (g)|Beaker+lid+qtz (g)|Carrier weight (g)|
-|--|--------|--------------------|------------------|------------------|
-|1 |_ABC-1_ |           _210.225_|         _224.321_|          _0.9976_|
-|2 |        |                    |                  |                  |
-|. |        |                    |                  |                  |
-|. |        |                    |                  |                  |
-|n |_blank_ |                    |                  |         -        |
+|   |SampleID|Empty beaker+lid (g)|Beaker+lid+qtz (g)|Carrier weight (g)|
+|---|--------|--------------------|------------------|------------------|
+|1  |_ABC-1_ |           _210.225_|         _224.321_|          _0.9976_|
+|2  |        |                    |                  |                  |
+|.  |        |                    |                  |                  |
+|.. |        |                    |                  |                  |
+|_n_|_blank_ |                    |                  |         -        |
 
 - Label and precisely weigh 90ml or 240ml Savillex screwtop jar and lid (1 per sample)
 - Add sample 
