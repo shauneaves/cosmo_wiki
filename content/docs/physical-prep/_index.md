@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: Physical preparation
 summary: Learn how to collect samples for cosmogenic nuclide applications.
-weight: 2.5
+weight: 3
 icon: mortar-pestle
 icon_pack: fas
 
