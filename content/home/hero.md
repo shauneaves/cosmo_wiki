@@ -10,13 +10,13 @@ design:
     gradient_end: '#2b94c3'
     text_color_light: true
 cta:
-  url: pubs/
-  label: Publications
+  url: people/
+  label: Who are we?
   icon_pack: fas
-  icon: file-alt
+  icon: child
 cta_alt:
-  url: docs/
-  label: View Methodology
+  url: pubs/
+  label: View our work
 
 ---
 
