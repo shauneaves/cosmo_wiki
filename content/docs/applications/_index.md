@@ -13,3 +13,4 @@ type: book  # Do not modify.
 ---
 
 {{< cta cta_text="Burial Dating" cta_link="burial-dating" icon_pack="fas" icon="layer-group">}}
+{{< cta cta_text="Erosion Rates" cta_link="erosion-rates" icon_pack="fas" icon="layer-group">}}
