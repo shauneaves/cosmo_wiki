@@ -13,7 +13,7 @@ cta:
   url: pubs/
   label: Publications
   icon_pack: fas
-  icon: download
+  icon: book-open
 cta_alt:
   url: docs/
   label: View Methodology
