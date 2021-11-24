@@ -12,7 +12,7 @@ view: 4
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
-  image: ""
+  image: contact.jpg
 ---
 # _In press_
 - 
