@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: Project Docs Template
-hero_media: book.svg
+hero_media: cosmogenetic-nuclide-lab.jpg
 design:
   background:
     gradient_start: '#4bb4e3'
