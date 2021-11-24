@@ -1,4 +1,3 @@
-Dowling, L., Eaves, S., Norton, K., Mackintosh, A., Anderson, B., Hidy, A., Lorrey, A., Vargo, L., Ryan, M. and Tims, S., 2021.  Quaternary Science Reviews, 266, p.107068.
 ---
 title: "Local summer insolation and greenhouse gas forcing drove warming and glacier retreat in New Zealand during the Holocene."
 authors:
