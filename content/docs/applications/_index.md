@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Applications
-summary: Learn how to collect samples for cosmogenic nuclide applications.
+summary: Learn cosmogenic nuclide applications.
 weight: 1
 icon: clipboard-list
 icon_pack: fas
