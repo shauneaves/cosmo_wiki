@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: Sample Collection
 summary: Learn how to collect samples for cosmogenic nuclide applications.
-weight: 1
+weight: 2
 icon: people-carry
 icon_pack: fas
 
