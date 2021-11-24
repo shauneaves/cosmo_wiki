@@ -9,7 +9,7 @@ main:
     weight: 10
   - name: Publications
     url: pubs/
-    weight: 20
+    weight: 15
   - name: Documentation
     url: docs/
     weight: 20
