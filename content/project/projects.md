@@ -4,13 +4,13 @@
 widget: portfolio
 
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
 weight: 65
 
 title: Projects
-subtitle: ''
+subtitle: 'What are we up to?'
 
 content:
   # Page type to display. E.g. project.
