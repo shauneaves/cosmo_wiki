@@ -11,7 +11,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Git Hub commits from the gourp
+  caption: Dart Glacier, Jan. 2017
   focal_point: Smart
 
 links:
