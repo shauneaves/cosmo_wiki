@@ -1,11 +1,10 @@
 ---
-title: Customising Open Source Tools
-summary: Working with a group of third year computer science students, we adapted and augmented popular digital journalism tools
+title: Holocene length changes of Dart Glacier
+summary: Reconstructing glacier length changes at Dart Glacier over the last 10000 years
 tags:
-- code
-- open source
-- digital storytelling
-- research impact
+- surface exposure dating
+- mountain glacier
+- marsden
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
