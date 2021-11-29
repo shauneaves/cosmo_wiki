@@ -12,13 +12,12 @@ _This step is the last chance for cleaning the samples._
 ## Steps
 1.1 Sketch the following table in your lab book:
 
-|   |SampleID|Empty beaker+lid (g)|Beaker+lid+qtz (g)|Carrier weight (g)|
-|---|--------|--------------------|------------------|------------------|
-|1  |_ABC-1_ |           _210.225_|         _224.321_|          _0.9976_|
-|2  |        |                    |                  |                  |
-|.  |        |                    |                  |                  |
-|.. |        |                    |                  |                  |
-|_n_|_blank_ |                    |                  |         -        |
+|    |SampleID|Empty beaker+lid (g)|Beaker+lid+qtz (g)|Carrier weight (g)|
+|----|--------|--------------------|------------------|------------------|
+|1   |_ABC-1_ |           _210.225_|         _224.321_|          _0.9976_|
+|..  |        |                    |                  |                  |
+|... |        |                    |                  |                  |
+|_n_ |_blank_ |                    |                  |                  |
 
 1.2 Label and precisely weigh 90ml or 240ml Savillex screwtop jar and lid (1 per sample)
 - Add sample 
