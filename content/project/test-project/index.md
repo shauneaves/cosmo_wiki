@@ -2,9 +2,9 @@
 title: Holocene length changes of Dart Glacier
 summary: Reconstructing glacier length changes at Dart Glacier over the last 10000 years
 tags:
-- Exposure dating
-- Mountain glacier
-- Marsden
+- exposure dating
+- mountain glacier
+- marsden
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
