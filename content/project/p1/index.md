@@ -1,6 +1,6 @@
 ---
-title: New Zealand glacier change during the last glacial termination
-summary: Tracking millennial-scale glacier fluctuations during Earth's large major warming event
+title: Establishing natural baselines of glacier variability in a warm world
+summary: Constraining past advance and retreat of New Zealand glaciers during the Holocene Epoch
 tags:
 - Recent
 date: "2016-04-27T00:00:00Z"
