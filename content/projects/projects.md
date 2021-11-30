@@ -26,16 +26,16 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Marsden"
-    tag = "marsden"
+    name = "Active"
+    tag = "Active"
 
   [[content.filter_button]]
-    name = "Mountain Glacier"
-    tag = "mountain glacier"
+    name = "Recent"
+    tag = "Recent"
   
   [[content.filter_button]]
-    name = "Exposure Dating"
-    tag = "exposure dating"
+    name = "Past"
+    tag = "Past"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
