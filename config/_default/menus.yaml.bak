@@ -9,10 +9,13 @@ main:
     weight: 10
   - name: People
     url: people/
-    weight: 13
+    weight: 15
+  - name: Projects
+    url: project/
+    weight: 20
   - name: Publications
     url: pubs/
-    weight: 15
+    weight: 25
   - name: Documentation
     url: docs/
-    weight: 20
+    weight: 30
