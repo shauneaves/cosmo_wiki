@@ -2,7 +2,7 @@
 title: The last glacial termination in the Southern Hemisphere
 summary: Tracking millennial-scale glacier fluctuations during Earth's last major warming episode
 tags:
-- Recent
+- Active
 date: "2016-04-27T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
