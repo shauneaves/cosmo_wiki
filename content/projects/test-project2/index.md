@@ -33,7 +33,7 @@ slides: example
 
 Working with a group of third year computer science students, we adapted and augmented popular digital journalism tools
 
-![dart](dart.jpg)
+![dart](featured.jpg)
 
 > “It’s been a fun adventure to collaborate with a team on the other side of the planet. I was immediately impressed at how quickly the VUW students were able to get up to speed with our code. They also really seem to understand the technical and communication dynamics of contributing to open source.”
 	
