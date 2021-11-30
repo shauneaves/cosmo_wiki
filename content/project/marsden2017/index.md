@@ -2,7 +2,7 @@
 title: The last glacial termination in the Southern Hemisphere
 summary: Tracking millennial-scale glacier fluctuations during Earth's last major warming episode
 tags:
-- Recent
+- Active
 date: "2016-04-27T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -34,3 +34,5 @@ Working with a group of third year computer science students, we adapted and aug
 > “It’s been a fun adventure to collaborate with a team on the other side of the planet. I was immediately impressed at how quickly the VUW students were able to get up to speed with our code. They also really seem to understand the technical and communication dynamics of contributing to open source.”
 	
 >	- Joe Germuska, Chief Nerd, knight lab
+
+{{< gallery album="marsden2017" >}}
