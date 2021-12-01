@@ -16,10 +16,13 @@ header:
 ---
 # _In press_
 - 
+<details>
+  <summary># 2022</summary>
 
-# 2022
 - __Moore, E.M., Eaves, S.R., Norton, K.P., Mackintosh, A.N., Anderson, B.M., Dowling, L.H. and Hidy, A.J., 2022.__ [Climate reconstructions for the Last Glacial Maximum from a simple cirque glacier in Fiordland, New Zealand.](https://doi.org/10.1016/j.quascirev.2021.107281) _Quaternary Science Reviews_ 275, p.107281.
 
+</details>
+  
 # 2021
 - __Dowling, L., Eaves, S., Norton, K., Mackintosh, A., Anderson, B., Hidy, A., Lorrey, A., Vargo, L., Ryan, M. and Tims, S., 2021.__ [Local summer insolation and greenhouse gas forcing drove warming and glacier retreat in New Zealand during the Holocene.](https://doi.org/10.1016/j.quascirev.2021.107068), _Quaternary Science Reviews_ 266, p.107068.
 
