@@ -20,5 +20,4 @@ cta_alt:
 
 ---
 
-
-
+We process cosmogenic $^{10}$Be and 26Al samples to measure the residence time of rocks and sediments at or near Earth's surface.
