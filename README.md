@@ -21,6 +21,12 @@ Typical tasks:
 - commit your changes with a verbose description
 - submit pull request
 
+## Useful markdown tips and tricks
+- [Good overview of Markdown](https://www.markdownguide.org/)
+- [Embed a custom Google Map](https://tribulant.com/blog/wordpress/easy-embedding-a-google-map-with-multiple-markers-to-your-site/)
+- 
+
+
 ## Add a person
 _content coming..._
 ## Add a publication
