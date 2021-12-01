@@ -9,7 +9,7 @@ featured: true
 external_link: ""
 
 image:
-  caption: SfM point cloud
+  caption: ""
   focal_point: Smart
 
 links:
