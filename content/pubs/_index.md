@@ -27,7 +27,10 @@ header:
 - __Dowling, L., Eaves, S., Norton, K., Mackintosh, A., Anderson, B., Hidy, A., Lorrey, A., Vargo, L., Ryan, M. and Tims, S., 2021.__ [Local summer insolation and greenhouse gas forcing drove warming and glacier retreat in New Zealand during the Holocene.](https://doi.org/10.1016/j.quascirev.2021.107068), _Quaternary Science Reviews_ 266, p.107068.
 
 - __Jones, R.S., Whitmore, R.J., Mackintosh, A.N., Norton, K.P., Eaves, S.R., Stutz, J. and Christl, M., 2021.__ [Regional-scale abrupt Mid-Holocene ice sheet thinning in the western Ross Sea, Antarctica](https://doi.org/10.1130/G48347.1) _Geology_ 49(3), pp.278-282.
+  
+- Moore, E., 2021. [The Glacial History of Rocky Top Cirque, Southeast Fiordland, New Zealand](https://openaccess.wgtn.ac.nz/ndownloader/files/28005123) (MSc. dissertation, Open Access Victoria University of Wellington| Te Herenga Waka).
 
 - __Raab, G., Martin, A.P., Norton, K.P., Christl, M., Scarciglia, F. and Egli, M., 2021.__ [Complex patterns of schist tor exposure and surface uplift, Otago (New Zealand).](https://doi.org/10.1016/j.geomorph.2021.107849) _Geomorphology_ 389, p.107849.
+  
 </details>
 
