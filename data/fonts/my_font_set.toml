@@ -1,0 +1,12 @@
+
+# Font style metadata
+name = "My Font Set"
+
+# Optional Google font URL
+google_fonts = "family=Oswald&family=Roboto&family=Roboto+Mono"
+
+# Font families
+heading_font = "Oswald"
+body_font = "Roboto"
+nav_font = "Oswald"
+mono_font = "Roboto Mono"
