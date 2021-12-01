@@ -8,17 +8,24 @@ This website is built using the [Wowchemy-Hugo-Research Group theme](https://git
 
 _note: this is a work in progress and likely inaccurate_
 
-    - [Add a person (e.g. yourself)](#add-a-person)
-    - Add a publication
-    - Add a project
-    - Edit the documentation
+Typical tasks:
+- [Add a person](#add-a-person)
+- [Add a publication](#add-a-publication)
+- [Add a project](#add-a-project)
+- [Edit the documentation](#edit-the-documentation)
 
-- Sign up for a GitHub account and download GitHub Desktop (unless you are happy with command line)
-- From GHD, clone [this repository](https://github.com/shauneaves/cosmo_wiki) to your local computer
-- Make new contributions, e.g.
-
-
-- When finished, commit your changes with a verbose description
+# First steps
+- If you haven't already, then create a personal GitHub account and download GitHub Desktop (unless you are happy with command line)
+- clone/checkout
+- make changes/additions using markdown
+- commit your changes with a verbose description
+- submit pull request
 
 ## Add a person
-
+_content coming..._
+## Add a publication
+_content coming_
+## Add a project
+_content coming_
+## Edit the documentation
+_content coming_
