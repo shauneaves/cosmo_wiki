@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Laboratory
+title: VUW Cosmogenic Laboratory
 hero_media: cosmogenetic-nuclide-lab.jpg
 design:
   background:
@@ -21,4 +21,4 @@ cta_alt:
 ---
 
 
-A website for our laboratory.
+
