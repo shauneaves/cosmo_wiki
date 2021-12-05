@@ -16,21 +16,25 @@ You will need
 We will use the 'fork and pull' method of collaboration from: https://github.community/t/contributing-to-repositories-with-github-desktop/10210
 
 #### First time editing the webpage?
-- In your web browser, [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) this repository to create a copy of the source files held in your own GH account
+
+- In your web browser, [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) this repository to create a copy of the source files held in your own GitHub account
 - Open GitHub Desktop and clone the forked repository from your GitHub account
   - this creates a local copy on your hard disk
-- In GitHub Desktop, click the 'Current branch' dropdown and click 'New branch'. Give it a name.
+
+#### Done some editing before?
+
+- Open GitHub Desktop, ensure you are on the `main/master` branch, and 'fetch origin' then 'pull' any updates.
+- Your local files should now be identical with this repository and you are ready to make more edits.
+
+
+### 2 Editing
+
+- In GitHub Desktop, click the 'Current branch' dropdown and then click 'New branch'. Give it your new branch an intuitive name for your edits (e.g. 'adding-person', or 'adding-publication')
 - You are now ready to do make some changes, things you might like to try are:
   - [Add a person](#add-a-person)
   - [Add a publication](#add-a-publication)
   - [Add a project](#add-a-project)
   - [Edit the documentation](#edit-the-documentation)
-
-#### Done some editing before?
-- You will need to [sync your fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) to ensure it is up to date
-- Then in GitHub Desktop 
-
-### 2 Editing
 
 #### Useful markdown tips and tricks
 
@@ -78,8 +82,19 @@ _instructions coming_
 
 
 ### 3 Merge changes and submit pull request
+*not yet accurate* <br>
+[Source guide](https://github.community/t/contributing-to-repositories-with-github-desktop/10210)
 
-
+- In the GitHub Desktop client, switch to the **main/master** branch.
+- Click **Fetch origin** in GitHub Desktop to ensure the main branch is up to date with the remote repositorys
+- Go to **Branch > Merge into Current Branch**.
+- In the merge window, select your edited branch, and then click **Merge *your-branch-name* into main/master**.
+- You can begin the the process of creating a *pull request* within GitHub Desktop by going to the menu and selecting **Branch > Create Pull Request**
+  - this opens a *pull request* window in your browser
+  - provide a written description of your edits and then click **Create pull request**
+  - your edits will then be reviewed and either:
+    - returned to you to fix and errors, OR
+    - merged with this repository and deployed to the website 
 
 
 
