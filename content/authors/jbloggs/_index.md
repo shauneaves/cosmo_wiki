@@ -63,6 +63,6 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 # choose one from include: Researchers, Grad Students, Technicians, Visitors, Alumni
 user_groups:
-- Researchers
+- []
 
 ---
