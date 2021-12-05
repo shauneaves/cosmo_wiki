@@ -40,7 +40,7 @@ We will use the 'fork and pull' method of collaboration from: https://github.com
 - Open GitHub Desktop, ensure you are on the `main/master` branch, and 'fetch origin' then 'pull' any updates.
 - Your local files should now be identical with this repository and you are ready to make more edits.
 
-
+-------------
 ### 2 Editing
    > ***Useful markdown tips and tricks***
    > *The webpages are written in Markdown, a very simple markup language that is quick and easy to learn. Here are some resources:*
@@ -98,6 +98,7 @@ _instructions coming_
 _instructions coming_
 
 
+-------------
 ### 3 Merge changes and submit pull request
 *not yet accurate* <br>
 [Source guide](https://github.community/t/contributing-to-repositories-with-github-desktop/10210)
