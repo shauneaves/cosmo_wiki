@@ -118,7 +118,8 @@ _instructions coming_
 <br>
 <br>
 ------------------
-## Make your own website:
+
+### Make your own website:
 This website is built using the [Wowchemy-Hugo-Research Group theme](https://github.com/wowchemy/starter-hugo-research-group). This repository holds the source files that are connected to [netlify](https://www.netlify.com/), which deploys the website front end. LEarn more about this general approach:
 - 👉 [**Get Started**](https://wowchemy.com/hugo-themes/)
 - 📚 [View the **documentation**](https://wowchemy.com/docs/)
