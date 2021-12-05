@@ -42,8 +42,9 @@ We will use the 'fork and pull' method of collaboration from: https://github.com
 
 -------------
 ### 2 Editing
+The webpages are written in Markdown, a very simple markup language that is quick and easy to learn. <br>
    > ***Useful markdown tips and tricks***
-   > *The webpages are written in Markdown, a very simple markup language that is quick and easy to learn. Here are some resources:*
+   > *Here are some resources:*
    > - [Good overview of Markdown](https://www.markdownguide.org/)
    > - [Embed a custom Google Map](https://tribulant.com/blog/wordpress/easy-embedding-a-google-map-with-multiple-markers-to-your-site/)
 <br>
