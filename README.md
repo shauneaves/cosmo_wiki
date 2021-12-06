@@ -140,7 +140,7 @@ _instructions coming_
 </p>
 
 - Now switch to the **main** branch.
-- Click **Branch > Pull** in GitHub Desktop to ensure the main branch is up to date with the remote repositories
+- Click **Repository > Pull** in GitHub Desktop to ensure the main branch is up to date with the remote repositories
 <p align="center">
   <img src="/assets/media/readme-images/pull-from-upstream.png" />
 </p>
