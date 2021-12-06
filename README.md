@@ -48,7 +48,7 @@ We will use the 'fork and pull' method of collaboration from: https://github.com
 
 #### Done some editing before
 
-- Open GitHub Desktop, ensure you are on the `main/master` branch, and 'fetch origin' then 'pull' any updates.
+- Open GitHub Desktop, ensure you are on the `main` branch, and `fetch origin` then `pull` any updates.
 - Your local files should now be identical with this repository and you are ready to make more edits.
 
 -------------
@@ -60,7 +60,7 @@ The webpages are written in Markdown, a very simple markup language that is quic
    > - [Embed a custom Google Map](https://tribulant.com/blog/wordpress/easy-embedding-a-google-map-with-multiple-markers-to-your-site/)
 <br>
 
-- In GitHub Desktop, click the 'Current branch' dropdown and then click 'New branch'. Give it your new branch an intuitive name for your edits (e.g. 'adding-person', or 'adding-publication')
+- In GitHub Desktop, click the `Current branch` dropdown and then click `New branch`. Give it your new branch an intuitive name for your edits (e.g. '*adding-person*', or '*adding-publication*')
 - You are now ready to do make some changes to your local files. Things you might like to try are:
   - [Add a person](#add-a-person)
   - [Add a publication](#add-a-publication)
@@ -115,7 +115,7 @@ _instructions coming_
 *not yet accurate* <br>
 [Source guide](https://github.community/t/contributing-to-repositories-with-github-desktop/10210)
 
-- In the GitHub Desktop client, switch to the **main/master** branch.
+- In the GitHub Desktop client, switch to the **main** branch.
 - Click **Fetch origin** in GitHub Desktop to ensure the main branch is up to date with the remote repositories
 - Go to **Branch > Merge into Current Branch**.
 - In the merge window, select your edited branch, and then click **Merge *your-branch-name* into main/master**.
