@@ -40,7 +40,11 @@ We will use the 'fork and pull' method of collaboration from: https://github.com
 - GitHub Desktop will open and maybe ask you where you want to store the cloned files
 - It may then ask you how you are planning to use the fork
   - choose **To contribute to the parent project**: <br>
-![You want to make a contribution](/assets/media/readme-images/how-are-you-planning-to-use-this-fork.png)
+
+<p align="center">
+  <img src="/assets/media/readme-images/how-are-you-planning-to-use-this-fork.png" />
+</p>
+
 
 #### Done some editing before
 
