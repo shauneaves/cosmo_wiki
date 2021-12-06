@@ -65,7 +65,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 # replace [] below with one of the following (use exact text): Researchers, Grad Students, Technicians, Visitors, Alumni
 user_groups:
-- Grad Students
+- 'Grad Students'
 
 
 # You can add a longer person description here (or simply delete the text below to have no text on your page)
