@@ -134,16 +134,41 @@ _instructions coming_
 *not yet accurate* <br>
 [Source guide](https://github.community/t/contributing-to-repositories-with-github-desktop/10210)
 
-- In the GitHub Desktop client, switch to the **main** branch.
-- Click **Fetch origin** in GitHub Desktop to ensure the main branch is up to date with the remote repositories
-- Go to **Branch > Merge into Current Branch**.
-- In the merge window, select your edited branch, and then click **Merge *your-branch-name* into main/master**.
+- In the GitHub Desktop client, commit your changes with a short descriptive message: <br>
+<p align="center">
+  <img src="/assets/media/readme-images/commit-changes.png" />
+</p>
+<br>
+- Now switch to the **main** branch.
+- Click **Branch > Pull** in GitHub Desktop to ensure the main branch is up to date with the remote repositories
+  <p align="center">
+  <img src="/assets/media/readme-images/pull-from-upstream.png" />
+</p>
+<br>
+- Go to **Branch > Compare to branch** and select your edited branch.
+- If there are no merge conflicts, then click **Create a merge commit** to update the main branch
+<p align="center">
+  <img src="/assets/media/readme-images/compare-to-branch-and-merge.png" />
+</p>
+<br>
 - You can begin the the process of creating a *pull request* within GitHub Desktop by going to the menu and selecting **Branch > Create Pull Request**
   - this opens a *pull request* window in your browser
   - provide a written description of your edits and then click **Create pull request**
-  - your edits will then be reviewed and either:
-    - returned to you to fix and errors, OR
-    - merged with this repository and deployed to the website 
+  - GitHub will then send your suggested changes to Netlify that will check for errors.
+  - If the website will not deploy with your edits, then you will see someting like the following:
+    <p align="center">
+      <img src="/assets/media/readme-images/pull-request-netlify-fail.png" />
+    </p>
+<br>
+    - In this case, check the error messages for details and then repeat the editing steps (edit branch, commit, merge with main) to address the issue(s)
+    - When you merge with the main branch, GitHub will autmatically update your pull request
+    - Hopefully you will then see a success message, e.g.
+      <p align="center">
+        <img src="/assets/media/readme-images/pull-request-netlify-pass.png" />
+      </p>
+<br>
+    - You can see how the website will look once your changes are accepted by clicking the **Browse the preview** url
+
 
 <br>
 <br>
