@@ -66,10 +66,10 @@ highlight_name: false
 # replace [] below with one of the following (use exact text): Researchers, Grad Students, Technicians, Visitors, Alumni
 user_groups:
 - 'Grad Students'
-
+---
 
 # You can add a longer person description here (or simply delete the text below to have no text on your page)
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque luctus ac nulla eu malesuada. Ut varius purus sit amet ligula dapibus, vitae volutpat ipsum pulvinar. Aliquam faucibus sagittis velit sed maximus. Vivamus rhoncus ligula massa, fringilla facilisis risus malesuada eget. In ultricies pretium egestas. Morbi pharetra dui non lectus imperdiet, ut scelerisque nibh hendrerit. Etiam dignissim tincidunt massa, ac facilisis turpis commodo in. Vivamus porta non ligula in finibus. Nunc congue tortor ligula, eget maximus lectus vestibulum eget. Mauris porttitor, nisi vitae lacinia congue, tortor odio hendrerit est, quis ultricies ipsum diam non arcu. Aenean sollicitudin ante eu malesuada porttitor. Sed sagittis libero tincidunt feugiat suscipit. Maecenas a placerat quam. Sed aliquet turpis et diam sollicitudin, quis pellentesque erat tempor.
 
 Vivamus eget arcu vel risus varius mollis. Pellentesque magna lacus, ultricies sit amet condimentum non, tempus elementum dui. Nam elit mauris, tempus et velit molestie, blandit scelerisque quam. Donec pretium mauris sit amet ligula tristique gravida. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus diam ipsum, laoreet quis justo in, tincidunt tempus augue. Proin porttitor finibus luctus. Curabitur ac massa ultrices turpis ultrices eleifend id fermentum neque. Vestibulum imperdiet commodo massa, eu consequat massa viverra sed. Donec tempor maximus convallis. Ut eget turpis varius augue rutrum ultricies at a velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Integer pellentesque velit at accumsan cursus. Proin vitae tincidunt mi, vel blandit nisi. In congue dolor sem, id tempor dolor vestibulum congue. Nam id mollis nisi, in aliquet mi.
----
+
