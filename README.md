@@ -138,19 +138,20 @@ _instructions coming_
 <p align="center">
   <img src="/assets/media/readme-images/commit-changes.png" />
 </p>
-<br>
+
 - Now switch to the **main** branch.
 - Click **Branch > Pull** in GitHub Desktop to ensure the main branch is up to date with the remote repositories
-  <p align="center">
+<p align="center">
   <img src="/assets/media/readme-images/pull-from-upstream.png" />
 </p>
-<br>
+
 - Go to **Branch > Compare to branch** and select your edited branch.
 - If there are no merge conflicts, then click **Create a merge commit** to update the main branch
 <p align="center">
   <img src="/assets/media/readme-images/compare-to-branch-and-merge.png" />
 </p>
-<br>
+
+
 - You can begin the the process of creating a *pull request* within GitHub Desktop by going to the menu and selecting **Branch > Create Pull Request**
   - this opens a *pull request* window in your browser
   - provide a written description of your edits and then click **Create pull request**
@@ -159,15 +160,15 @@ _instructions coming_
     <p align="center">
       <img src="/assets/media/readme-images/pull-request-netlify-fail.png" />
     </p>
-<br>
+
     - In this case, check the error messages for details and then repeat the editing steps (edit branch, commit, merge with main) to address the issue(s)
     - When you merge with the main branch, GitHub will autmatically update your pull request
     - Hopefully you will then see a success message, e.g.
       <p align="center">
         <img src="/assets/media/readme-images/pull-request-netlify-pass.png" />
       </p>
-<br>
-    - You can see how the website will look once your changes are accepted by clicking the **Browse the preview** url
+
+    - You can see how the website will look once your changes are accepted by clicking the :sunglasses:**Browse the preview** url
 
 
 <br>
