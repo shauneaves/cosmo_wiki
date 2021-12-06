@@ -97,7 +97,26 @@ The webpages are written in Markdown, a very simple markup language that is quic
 
 #### Add a publication
 
-_instructions coming_
+- Open `content/pubs/_index.md` in your chosen text editor
+  - This file holds all of the content for the [publications page of the website](https://sad-jennings-c7dd2d.netlify.app/pubs/)
+- The webpage makes use of the [HTML details element](https://gist.github.com/scmx/eca72d44afee0113ceb0349dd54a84a2), which makes dropdowns for a cleaner appearance 
+- This effect is producted using the following code:
+
+```
+<details>
+  <summary>2022</summary>
+- __Author, A., Author, B. YEAR__. [Article title](Article DOI URL). _Journal title_ Volume(issue). Pages. 
+</details>
+```
+
+- Publications are listed alphabetically by year of publication. Each is is structured like this:
+- Paste your publication reference into the correct alphabetical location for the relevant year
+- Format the entry to be consistent with the current style, e.g.
+  - __bold author names__
+  - [hyperlinked article title](https://www.doi.org/)
+  - _italic journal title_
+- When finished adding publications save your changes to `content/pubs/_index.md`
+- Once you are happy with your edits, follow [these instructions](#merge-changes-and-submit-pull-request) to merge your changes and submit them to be added to the website source files
 
 
 
