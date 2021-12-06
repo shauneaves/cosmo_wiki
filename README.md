@@ -32,8 +32,11 @@ We will use the 'fork and pull' method of collaboration from: https://github.com
 #### First time editing the webpage
 
 - In your web browser, [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) this repository to create a copy of the source files held in your own GitHub account
-- Open GitHub Desktop and clone the forked repository from your GitHub account
-  - this creates a local copy on your hard disk
+- Click the green `Clone or download` button on your forked repository and select `Open in Desktop` 
+- GitHub Desktop will open and maybe ask you where you want to store the cloned files
+- It may then ask you how you are planning to use the fork
+  - choose 'To contribute...'
+![You want to make a contribution](/assets/media/how-are-you-planning-to-use-this-fork.jpg)
 
 #### Done some editing before
 
