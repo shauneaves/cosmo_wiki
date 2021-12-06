@@ -35,8 +35,8 @@ We will use the 'fork and pull' method of collaboration from: https://github.com
 - Click the green `Clone or download` button on your forked repository and select `Open in Desktop` 
 - GitHub Desktop will open and maybe ask you where you want to store the cloned files
 - It may then ask you how you are planning to use the fork
-  - choose 'To contribute...'
-![You want to make a contribution](/assets/media/how-are-you-planning-to-use-this-fork.png)
+  - choose **To contribute to the parent project**: <br>
+![You want to make a contribution](/assets/media/readme-images/how-are-you-planning-to-use-this-fork.png)
 
 #### Done some editing before
 
