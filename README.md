@@ -99,6 +99,7 @@ The webpages are written in Markdown, a very simple markup language that is quic
 
 - Open `content/pubs/_index.md` in your chosen text editor
   - This file holds all of the content for the [publications page of the website](https://sad-jennings-c7dd2d.netlify.app/pubs/)
+- Publications are listed alphabetically by year of publication.
 - The webpage makes use of the [HTML details element](https://gist.github.com/scmx/eca72d44afee0113ceb0349dd54a84a2), which makes dropdowns for a cleaner appearance 
 - This effect is producted using the following code:
 
@@ -109,7 +110,6 @@ The webpages are written in Markdown, a very simple markup language that is quic
 </details>
 ```
 
-- Publications are listed alphabetically by year of publication. Each is is structured like this:
 - Paste your publication reference into the correct alphabetical location for the relevant year
 - Format the entry to be consistent with the current style, e.g.
   - __bold author names__
