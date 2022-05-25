@@ -18,6 +18,8 @@ header:
 <details>
   <summary>2022</summary>
 
+- __Tielidze, L.G., Eaves, S.R., Norton, K.P., Mackintosh, A.N. and Hidy, A.J., 2022.__ [Cosmogenic 10Be constraints on deglacial snowline rise in the Southern Alps, New Zealand.](https://doi.org/10.1016/j.quascirev.2022.107548) _Quaternary Science Reviews_, 286, p.107548.
+
 - __Moore, E.M., Eaves, S.R., Norton, K.P., Mackintosh, A.N., Anderson, B.M., Dowling, L.H. and Hidy, A.J., 2022.__ [Climate reconstructions for the Last Glacial Maximum from a simple cirque glacier in Fiordland, New Zealand.](https://doi.org/10.1016/j.quascirev.2021.107281) _Quaternary Science Reviews_ 275, p.107281.
 </details>
 
