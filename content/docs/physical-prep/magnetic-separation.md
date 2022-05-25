@@ -8,17 +8,17 @@ date: "2019-05-05T00:00:00+01:00"
 weight: 3
 ---
 
-# Theory
+## Theory
 
-## Ferromagnetism
+### Ferromagnetism
 
-## Paramagnetism
+### Paramagnetism
 
-## Diamagnetism
+### Diamagnetism
 
 
-# Instructions
+## Instructions
 
-## Hand magnet
+### Hand magnet
 
-## Frantz isodynamic magnetic separator
+### Frantz isodynamic magnetic separator
