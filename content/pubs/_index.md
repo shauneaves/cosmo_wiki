@@ -20,11 +20,11 @@ header:
 
 - __Moore, E.M., Eaves, S.R., Norton, K.P., Mackintosh, A.N., Anderson, B.M., Dowling, L.H. and Hidy, A.J., 2022.__ [Climate reconstructions for the Last Glacial Maximum from a simple cirque glacier in Fiordland, New Zealand.](https://doi.org/10.1016/j.quascirev.2021.107281) _Quaternary Science Reviews_ 275, p.107281.
 
-- __Tielidze, L.G., Eaves, S.R., Norton, K.P., Mackintosh, A.N. and Hidy, A.J., 2022.__ [Cosmogenic 10Be constraints on deglacial snowline rise in the Southern Alps, New Zealand.](https://doi.org/10.1016/j.quascirev.2022.107548) _Quaternary Science Reviews_, 286, p.107548.
+- __Tielidze, L.G., Eaves, S.R., Norton, K.P., Mackintosh, A.N. and Hidy, A.J., 2022.__ [Cosmogenic 10Be constraints on deglacial snowline rise in the Southern Alps, New Zealand.](https://doi.org/10.1016/j.quascirev.2022.107548) _Quaternary Science Reviews_ 286, p.107548.
 
-- __Whitmore, R.J., Norton, K.P., Ashworth, L. and Mackintosh, A.N., 2022.__ [Sequential quartz purification of 125–63 µm material for in-situ cosmogenic nuclide analysis.](https://doi.org/10.1016/j.nimb.2021.11.011) _Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms_, 511, pp.105-112.
+- __Whitmore, R.J., Norton, K.P., Ashworth, L. and Mackintosh, A.N., 2022.__ [Sequential quartz purification of 125–63 µm material for in-situ cosmogenic nuclide analysis.](https://doi.org/10.1016/j.nimb.2021.11.011) _Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms_ 511, pp.105-112.
 
-- __Wilkinson, C., Stahl, T., Jones, K., Fujioka, T., Fink, D. and Norton, K.P., 2022.__ [Delayed 10Be dilution in detrital quartz following extensive coseismic landsliding: A 2016 Kaikōura earthquake case study.](https://doi.org/10.1016/j.epsl.2022.117392) _Earth and Planetary Science Letters_, 581, p.117392.
+- __Wilkinson, C., Stahl, T., Jones, K., Fujioka, T., Fink, D. and Norton, K.P., 2022.__ [Delayed 10Be dilution in detrital quartz following extensive coseismic landsliding: A 2016 Kaikōura earthquake case study.](https://doi.org/10.1016/j.epsl.2022.117392) _Earth and Planetary Science Letters_ 581, p.117392.
 
 
 </details>
